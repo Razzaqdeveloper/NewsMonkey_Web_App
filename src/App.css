@@ -1,0 +1,13 @@
+.navbar{
+  display: flex;
+  background: grey;
+  color: white;
+  border: 1px solid black;
+}
+.navbar li{
+  display: flex;
+  padding: 12px 6px;
+}
+.navbar li a{
+  text-decoration: none;
+}
